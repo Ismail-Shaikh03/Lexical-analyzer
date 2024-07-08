@@ -1,0 +1,18 @@
+PROGRAM circle
+	!Variables declarations
+	REAL :: r, a, p, b 	
+	CHARACTER :: str1, str2
+	
+	!Read data
+	PRINT *, "Please enter the two radii values of circles"
+	READ*, r, b
+	IF ( r == 5)
+	  a = (3.14) * r * r
+	  IF (a < 100)
+	     p = 2 * 3.14 * b 
+	  END IF
+	END IF
+	!Display the results
+	PRINT *, "The output results are " , a, p, b
+END PROGRAM circle
+                  

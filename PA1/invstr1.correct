@@ -1,0 +1,3 @@
+SCONST: "Please type the coordinates of three points"
+SCONST: "The center of the circle through these points is"
+Error in line 6: Unrecognized Lexeme {"Its radius is'}

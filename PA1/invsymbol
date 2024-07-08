@@ -1,0 +1,13 @@
+	!This program calculates 
+	the equation of a circle
+	!Variable declarations
+	REAL :: x1, y1, x2, y2, 2x3	
+	CHAR :: str1, str2
+	INTEGER:: x,y,z
+	!Read data
+	r = $x1
+	
+	a = (2 * 3.14) * r * r
+	b = -2.1234
+	str1 = str2 // str1
+	

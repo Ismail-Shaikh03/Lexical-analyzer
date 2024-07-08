@@ -1,0 +1,9 @@
+PROGRAM circle
+	!Variables declarations
+	REAL :: r, a, p, b 	
+	PRINT *, "Please enter the two radii values of circles"
+	IF ( r == 5)
+	  a = (3.14) * r * r
+	END IF
+	PRINT *, "The output results are " , a, p, b
+END PROGRAM circle
